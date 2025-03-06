@@ -28,3 +28,17 @@ function actualizarLista(){
         cuadroMuestraNombres.appendChild(li);//agredo al cuadro un nombre debajo de otro            
     }
 }
+
+function sortearAmigo(){
+    cuadroMuestraNombres.innerHTML = "";
+    let numeroSorteado = Math.floor(Math.random()*listaAmigos.length);
+    console.log(`Num sorteado ${numeroSorteado}`)
+    
+    if(listaAmigos.length === 0){ 
+        alert("No hay nombres cargados para el sorteo!!");
+        return;
+    }else{
+        let nombreGanador = listaAmigos[numeroSorteado];
+        return  cuadroMuestraNombres.innerHTML = `El ganador es ${nombreGanador} !!`;
+    }
+}
