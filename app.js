@@ -19,3 +19,12 @@ function agregarAmigo(){
     }
 }
 
+function actualizarLista(){
+    // MUESTRA LOS NOMBRES DEBAJO EN EL #id = "listaAmigos"
+    cuadroMuestraNombres.innerHTML = ""; // Limpiar la lista antes de actualizar
+    for (let i = 0; i < listaAmigos.length; i++) {
+        let li = document.createElement('li'); //creo un elemento html  <li> 
+        li.textContent = listaAmigos[i];// asigno el nombre al <li>
+        cuadroMuestraNombres.appendChild(li);//agredo al cuadro un nombre debajo de otro            
+    }
+}
