@@ -14,11 +14,15 @@
 
 :arrow_forward: Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
-INGRESO AL PROYECTO FINALIZADO A TRAVÉS DEL REPOSITORIO EN GITHUB 
-:collision:
+
+INGRESO DIRECTO AL PROYECTO FINALIZADO A TRAVÉS DEL REPOSITORIO EN GITHUB ![icons8-github-32](https://github.com/user-attachments/assets/8eddb965-8ecc-4d87-b4bc-e8e54e29f48d)
 
 
-\## 🛠️ Abre y ejecuta el proyecto
+:collision: https://royaimo.github.io/amigo-secreto/ :collision:
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+TECNOLOGÍAS UTILIZADAS EN ESTE PROYECTO.
+![Static Badge](https://img.shields.io/badge/HTML-brightgreen) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JS-yellow)
+
+
+
+
