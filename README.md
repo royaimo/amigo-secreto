@@ -12,9 +12,12 @@
 -  `Presionar el boton Añadir`: con esto se carga el nombre del participante a la lista de nombres.
 -  `Presionar el boton sortear`: al terminar de ingresar todos los nombres de los participantes, se debe presionar el botón sortear para elegir el ganador.
 
-\## 📁 Acceso al proyecto
+:arrow_forward: Acceso al proyecto
 
 **Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+INGRESO AL PROYECTO FINALIZADO A TRAVÉS DEL REPOSITORIO EN GITHUB 
+:collision:
+
 
 \## 🛠️ Abre y ejecuta el proyecto
 
